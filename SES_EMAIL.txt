@@ -1,1 +1,1 @@
-SES_EMAIL=atharvamchiplunkar12@gmail.com
+SES_EMAIL=sahilsgunjal@gmail.com
